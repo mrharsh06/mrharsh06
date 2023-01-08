@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;_This+is+Harsh+Chaudhary....;Front+End+Web+Developer;Leetcode+Programmer!&center=true&size=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;___This+is+Harsh+Chaudhary....;Front+End+Web+Developer;Leetcode+Programmer!&center=true&size=30">
 
 <h1 align="center">Hi 👋, I'm Harsh Chaudhary</h1>
 I am currently a student of Electronics And Communication Engineering at Shri Mata Vaishno Devi University.
