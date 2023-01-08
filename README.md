@@ -1,6 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Harsh+Chaudhary....;Front+End+Web+Developer;Leetcode+Programmer!&center=true&size=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; This+is+Harsh+Chaudhary....;Front+End+Web+Developer;Leetcode+Programmer!&center=true&size=30">
 
-# Hi there, I'm Harsh Chaudhary <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+<h1 align="center">Hi 👋, I'm Harsh Chaudhary</h1>
 I am currently a student of Electronics And Communication Engineering at Shri Mata Vaishno Devi University.
 
 
