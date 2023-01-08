@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  <img src="https://img.icons8.com/color/48/000000/python.png"/>    <img src="https://img.icons8.com/color/48/000000/git.png"/>  <img src="https://img.icons8.com/ios/50/000000/html-5.png"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://img.icons8.com/ios/50/000000/html-5.png"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  <img src="https://img.icons8.com/color/48/000000/python.png"/>    <img src="https://img.icons8.com/color/48/000000/git.png"/>  
 
 
 <div>
