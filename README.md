@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/mrharsh06/"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png"/></a> 
 
 ## Profiles
-<a href="https://leetcode.com/mrharsh06/"><img src="https://drive.google.com/file/d/17-dlnA_efMHVzi4H2ChTgdFB-E3q47gO/view?usp=share_link" height="80" width="80"/></a> 
+<a href="https://leetcode.com/mrharsh06/"><img src="https://drive.google.com/file/d/1jduMqmyC6TdhydrrG9A4GLzrlZuWTCkH/view?usp=sharing" height="80" width="80"/></a> 
 
 ## 🌱 I’m currently learning
 
