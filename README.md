@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Harsh Chaudhary</h1>
 I am currently a student of Electronics And Communication Engineering at Shri Mata Vaishno Devi University.
 
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=mrharsh06&label=Profile%20views&color=0e75b6&style=flat" alt="dharmendrasahu1999" /> </p>
+<br>
+<p align="centre"> <img align="centre" src="https://komarev.com/ghpvc/?username=mrharsh06&label=Profile%20views&color=0e75b6&style=flat" alt="dharmendrasahu1999" /> </p>
 
 
 <!--
