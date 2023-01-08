@@ -4,7 +4,7 @@
 I am currently a student of Electronics And Communication Engineering at Shri Mata Vaishno Devi University.
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=mrharsh06&label=Profile%20views&color=0e75b6&style=flat" alt="dharmendrasahu1999" align="center" />
+<img src="https://komarev.com/ghpvc/?username=mrharsh06&label=Profile%20views&color=0e75b6&style=flat" alt="dharmendrasahu1999" />
 
 
 <!--
