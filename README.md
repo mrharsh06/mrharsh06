@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>  <img src="https://img.icons8.com/color/48/000000/python.png"/>    <img src="https://img.icons8.com/color/48/000000/git.png"/>  <img src="https://img.icons8.com/ios/50/000000/html-5.png"/>
+<img src="https://icons8.com/icon/40669/c%2B%2B"/>  <img src="https://img.icons8.com/color/48/000000/python.png"/>    <img src="https://img.icons8.com/color/48/000000/git.png"/>  <img src="https://img.icons8.com/ios/50/000000/html-5.png"/>
 
 
 <div>
