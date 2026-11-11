@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+<title id="title">Harsh Chaudhary — AI Engineer</title><desc id="desc">A curious mind. A builder's instinct. AI systems, agents, and automation, illustrated as a connected graph.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102b25"/><stop offset="1" stop-color="#234c3c"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#d8f2b5" stroke-opacity=".06"/></pattern></defs>
+<rect width="1200" height="370" rx="18" fill="url(#bg)"/><rect width="1200" height="370" rx="18" fill="url(#grid)"/>
+<circle cx="1100" cy="30" r="240" fill="none" stroke="#d8f2b5" stroke-opacity=".08"/><circle cx="1100" cy="30" r="200" fill="none" stroke="#d8f2b5" stroke-opacity=".06"/>
+<g font-family="Arial,Helvetica,sans-serif"><circle cx="57" cy="48" r="4" fill="#d8f2b5"/><text x="72" y="53" fill="#b5caa9" font-size="12" letter-spacing="3">HARSH CHAUDHARY / AI ENGINEER</text>
+<text x="52" y="133" fill="#f4f7ec" font-size="57" font-weight="600" letter-spacing="-2">A curious mind.</text>
+<text x="52" y="201" fill="#d8f2b5" font-family="Georgia,serif" font-style="italic" font-size="57" letter-spacing="-1.5">A builder’s instinct.</text>
+<text x="55" y="247" fill="#b9cdb1" font-size="17">Real problems. Practical automation. Useful AI.</text>
+<path d="M55 278H658" stroke="#b9cdb1" stroke-opacity=".22"/>
+<text x="55" y="312" fill="#d5e4c6" font-size="11" letter-spacing="2">AI SYSTEMS</text><circle cx="166" cy="308" r="2" fill="#799b6c"/><text x="186" y="312" fill="#d5e4c6" font-size="11" letter-spacing="2">AGENTS</text><circle cx="269" cy="308" r="2" fill="#799b6c"/><text x="289" y="312" fill="#d5e4c6" font-size="11" letter-spacing="2">BACKEND ENGINEERING</text>
+<g stroke="#c2dfa5" stroke-opacity=".4" fill="none"><path d="M850 95L1015 148L930 265L775 206L850 95L930 265M775 206L1015 148"/><path d="M850 95L1093 67M1015 148L1118 251M775 206L736 302" stroke-dasharray="3 7"/></g>
+<g fill="#d8f2b5"><circle cx="850" cy="95" r="8"/><circle cx="1093" cy="67" r="3" opacity=".5"/><circle cx="1118" cy="251" r="3" opacity=".5"/><circle cx="736" cy="302" r="3" opacity=".5"/></g>
+<circle cx="1015" cy="148" r="21" fill="#d8f2b5"/><circle cx="1015" cy="148" r="6" fill="#234c3c"/><circle cx="930" cy="265" r="15" fill="#315b46" stroke="#a8c78d"/><circle cx="775" cy="206" r="13" fill="#315b46" stroke="#a8c78d"/>
+<g fill="#b9cdb1" font-size="12"><text x="815" y="76">Curiosity</text><text x="1044" y="153">Build</text><text x="905" y="302">Automate</text><text x="735" y="240">Connect</text></g>
+<text x="1100" y="338" fill="#9cb58e" font-size="10" letter-spacing="2" text-anchor="end">ALWAYS LEARNING. ALWAYS BUILDING.</text></g></svg>
